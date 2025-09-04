@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋 I'm [Jacob Zweiback]
 
-<!--
-**jz1010/jz1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Incoming student at **The University of Chicago** (Class of 2029)  
+📚 Interested in **Computer Science, Mathematics, and Economics**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 💡 Passionate about problem-solving and exploring connections across CS, math, and econ  
+- 🔍 Curious about algorithms, data science, and computational modeling  
+- 🌍 Excited to learn, build, and collaborate with others in tech and research  
+
+---
+
+## GitHub Plans
+This repository will serve as my personal space for:
+- 📂 Coursework projects  
+- 🧩 Coding practice & algorithm challenges  
+- 📊 Research explorations and personal side projects  
+
+---
+
+## Connect with Me
+- GitHub: [jz1010](https://github.com/jz1010)  
+- LinkedIn: [Jacob Zweiback](https://www.linkedin.com/in/jacob-zweiback-682a6825b/)  
+- Email: jzweiback1010 [at] gmail [dot] com
+
+---
+
+✨ _“A ship is safe in harbor, but that's not what ships are for.”_ – John A. Shedd
+
