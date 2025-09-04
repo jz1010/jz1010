@@ -21,7 +21,8 @@ This repository will serve as my personal space for:
 ---
 
 ## Connect with Me
-<a href= "https://github.com/jz1010"><img src = "https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"> </a><a href= "https://www.linkedin.com/in/jacob-zweiback-682a6825b/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+<a href= "https://github.com/jz1010"><img src = "https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"></a>  
+<a href= "https://www.linkedin.com/in/jacob-zweiback-682a6825b/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>    
 Email: jzweiback1010 [at] gmail [dot] com
 
 ---
