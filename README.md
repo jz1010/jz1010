@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [Jacob Zweiback]
+# Hi there 👋 I'm Jacob Zweiback
 
 🎓 Incoming student at **The University of Chicago** (Class of 2029)  
 📚 Interested in **Computer Science, Mathematics, and Economics**  
