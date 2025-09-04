@@ -27,5 +27,5 @@ This repository will serve as my personal space for:
 
 ---
 
-✨ _“A ship is safe in harbor, but that's not what ships are for.”_ – John A. Shedd
+> _“A ship is safe in harbor, but that's not what ships are for.”_ – John A. Shedd
 
